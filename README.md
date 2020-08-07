@@ -1,0 +1,2 @@
+# PieDijagram
+Cilj primera je da se demonstrira rad sa klasom TextField Napraviti program u JavaFX-u koji treba da omogući iscrtavanje Pie dijagrama tako što će na dnu ekrana biti ponuđene 4 boje i za svaku od boja po jedan TextField objekat u okviru kog će se upisivati koji procenat svaka boja treba da zauzima na dijagramu. Klikomna dugme se zatim iscrta Pie dijagram sa odgovarajućim vrednostima. Takođe je potrebno proveravati da li je ukupan procenat koji zauzimaju sve boje jednak 100.
